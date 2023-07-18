@@ -24,6 +24,10 @@ public class DBTests {
         while (resultSet.next()) {
             int id = resultSet.getInt("id");
             String name = resultSet.getString("name");
+            //fghfghhffg
+            //werwerr
+            //werwerere
+            //jkljklkjljljklkjl
             System.out.printf("ID: %s, Name: %s\n", id, name);
             // dhjgjdfhjhdfg
         }
@@ -32,6 +36,13 @@ public class DBTests {
     @AfterClass
     public void tearDown() {
         dbConnector.close();
+    }
+
+    public String test2() {
+        //dfgdffgdfgdg
+        //dfgfdggfdg
+        //dfgdfg
+        return "qwe";
     }
 
 }

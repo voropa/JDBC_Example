@@ -57,5 +57,4 @@ public class DBConnector {
         } catch (Exception ignored) {
         }
     }
-
 }

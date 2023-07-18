@@ -24,10 +24,11 @@ public class DBTests {
         while (resultSet.next()) {
             int id = resultSet.getInt("id");
             String name = resultSet.getString("name");
-            //fghfghhffg
             //werwerr
             //werwerere
             //jkljklkjljljklkjl
+            //dsfdsgfdggfg
+            //dfgdfgfdgdg
             System.out.printf("ID: %s, Name: %s\n", id, name);
             // dhjgjdfhjhdfg
         }
@@ -43,6 +44,15 @@ public class DBTests {
         //dfgfdggfdg
         //dfgdfg
         return "qwe";
+    }
+
+    public void qwe() {
+        //dgdfgdg
+        //dfgdfgfdgdfg
+        //dfgdfgfdgg
+        //dfgdfgdfg
+        //dfgdfgdfgfdg
+        ///dfgdfgg
     }
 
 }

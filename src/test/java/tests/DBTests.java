@@ -39,6 +39,9 @@ public class DBTests {
     @Test
     public void test33() {
         dbConnector.updateStudent(4, "NewAlex");
+        //dgfdfgdfg
+        //dfgdgg
+        //dfgdfgdfgdfg
     }
 
     @Test

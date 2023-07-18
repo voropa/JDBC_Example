@@ -25,6 +25,7 @@ public class DBTests {
             int id = resultSet.getInt("id");
             String name = resultSet.getString("name");
             System.out.printf("ID: %s, Name: %s\n", id, name);
+            // dhjgjdfhjhdfg
         }
     }
 

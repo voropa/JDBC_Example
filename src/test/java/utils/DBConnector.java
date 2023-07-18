@@ -41,6 +41,8 @@ public class DBConnector {
         return null;
     }
 
+    public void test() {}
+
     // You need to close the resultSet
     public void close() {
         try {
